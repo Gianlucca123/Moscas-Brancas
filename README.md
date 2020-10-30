@@ -9,12 +9,12 @@ O objetivo desse projeto é identificar quantas moscas têm nas imagens abaixo u
 
 ![Moscas 3](/imagens/moscas3.jpg)
 
-Artigo para referência: [](https://sol.sbc.org.br/index.php/erigo/article/view/9095/8997)
+Artigo para referência: <https://sol.sbc.org.br/index.php/erigo/article/view/9095/8997>
 
 Links de onde foram retirados as imagens:
 
-[](https://www.alchimiaweb.com/blogen/control-whiteflies-marijuana-plants/)
+<https://www.alchimiaweb.com/blogen/control-whiteflies-marijuana-plants/>
 
-[](https://www.socalhibiscussociety.org/pro-growers-tips/white-flies/)
+<https://www.socalhibiscussociety.org/pro-growers-tips/white-flies/>
 
-[](https://www.bioadvanced.com/articles/controlling-whiteflies)
+<https://www.bioadvanced.com/articles/controlling-whiteflies>
