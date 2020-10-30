@@ -3,4 +3,4 @@ Moscas brancas são uma praga para a lavoura. Desse modo, é de suma importânci
 
 O objetivo desse projeto é identificar quantas moscas têm nas imagens abaixo usando apenas a biblioteca OpenCv.
 
-![Moscas 1](/home/gianlucca/Downloads/moscas1.jpg)
+![Moscas 1](/imagens/moscas1.jpg)
